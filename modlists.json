@@ -1,37 +1,35 @@
-[
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "OEM",
-    "description": "Best thing since sliced bread",
-    "author": "Sr. Kaio",
-    "maintainers": [
-      "github/KingKai-1906"
-    ],
-    "game": "oblivion",
-    "tags": [
-      "essentials",
-      "base modding"
-    ],
-    "nsfw": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
-      "download": "https://authored-files.wabbajack.org/OEM.wabbajack_354d8bd6-51e2-47dd-9889-ec9cdff7cc1a",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash":"YXO371XXoXw=",
-      "Size":991494,
-      "NumberOfArchives":32,
-      "SizeOfArchives":364697092,
-      "NumberOfInstalledFiles":6679,
-      "SizeOfInstalledFiles":996987862
-    },
-    "version": "1.0.0"
-  }
-]
+[{
+	"$type": "ModListMetadata, Wabbajack.Lib",
+	"title": "OEM",
+	"description": "Oblivion Modding Essentials (OEM) is a streamlined and compatible approach intended to be the starting point of your own Oblivion GOTY Deluxe modlist! Works on both Steam and GOG releases",
+	"author": "Sr. Kaio",
+	"maintainers": [
+		"github/KingKai-1906"
+	],
+	"game": "oblivion",
+	"tags": [
+		"essentials",
+		"base modding"
+	],
+	"nsfw": false,
+	"image_contains_title": false,
+	"force_down": false,
+	"links": {
+		"$type": "Links, Wabbajack.Lib",
+		"image": "https://raw.githubusercontent.com/KingKai-1906/oem/main/oem.jpg",
+		"readme": "https://github.com/KingKai-1906/oem#readme",
+		"download": "https://authored-files.wabbajack.org/OEM.wabbajack_354d8bd6-51e2-47dd-9889-ec9cdff7cc1a",
+		"machineURL": "",
+		"discordURL": ""
+	},
+	"download_metadata": {
+		"$type": "DownloadMetadata, Wabbajack.Lib",
+		"Hash": "YXO371XXoXw=",
+		"Size": 991494,
+		"NumberOfArchives": 32,
+		"SizeOfArchives": 364697092,
+		"NumberOfInstalledFiles": 6679,
+		"SizeOfInstalledFiles": 996987862
+	},
+	"version": "1.0.0"
+}]
