@@ -1,7 +1,7 @@
 [{
 	"$type": "ModListMetadata, Wabbajack.Lib",
-	"title": "OEM",
-	"description": "Oblivion Modding Essentials (OEM) is a streamlined and compatible approach intended to be the starting point of your own Oblivion GOTY Deluxe modlist! Works on both Steam and GOG releases",
+	"title": "OME",
+	"description": "Oblivion Modding Essentials (OME) is a streamlined and compatible approach intended to be the starting point of your own Oblivion GOTY Deluxe modlist! Works on both Steam and GOG releases",
 	"author": "Sr. Kaio",
 	"maintainers": [
 		"github/KingKai-1906"
@@ -16,20 +16,20 @@
 	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/KingKai-1906/oem/main/oem.jpg",
-		"readme": "https://github.com/KingKai-1906/oem#readme",
-		"download": "https://authored-files.wabbajack.org/OEM.wabbajack_354d8bd6-51e2-47dd-9889-ec9cdff7cc1a",
-		"machineURL": "",
-		"discordURL": ""
+		"image": "https://raw.githubusercontent.com/KingKai-1906/ome/main/oem.jpg",
+		"readme": "https://github.com/KingKai-1906/ome#readme",
+		"download": "https://authored-files.wabbajack.org/OME.wabbajack_a5d24051-65c4-497a-8090-b22c11d4c93b",
+		"machineURL": "machineURL",
+		"discordURL": "https://discord.gg/aetherius-modding"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "YXO371XXoXw=",
-		"Size": 991494,
-		"NumberOfArchives": 32,
-		"SizeOfArchives": 364697092,
-		"NumberOfInstalledFiles": 6679,
-		"SizeOfInstalledFiles": 996987862
+		"Hash": "Rp11rwAfC2Q=",
+		"Size": 1050644,
+		"NumberOfArchives": 40,
+		"SizeOfArchives": 367496901,
+		"NumberOfInstalledFiles": 6725,
+		"SizeOfInstalledFiles": 1002880952
 	},
 	"version": "1.0.0"
 }]
