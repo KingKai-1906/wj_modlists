@@ -18,18 +18,18 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/KingKai-1906/ome/main/oem.jpg",
 		"readme": "https://github.com/KingKai-1906/ome#readme",
-		"download": "https://authored-files.wabbajack.org/OME.wabbajack_a5d24051-65c4-497a-8090-b22c11d4c93b",
+		"download": "https://authored-files.wabbajack.org/OME.wabbajack_61d81f9b-af0d-40c2-a358-edc4efa6ffc3",
 		"machineURL": "machineURL",
 		"discordURL": "https://discord.gg/aetherius-modding"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "Rp11rwAfC2Q=",
-		"Size": 1050644,
-		"NumberOfArchives": 40,
-		"SizeOfArchives": 367496901,
-		"NumberOfInstalledFiles": 6725,
-		"SizeOfInstalledFiles": 1002880952
+		"Hash": "xco2f9MTfCI=",
+		"Size": 1053454,
+		"NumberOfArchives": 42,
+		"SizeOfArchives": 367817599,
+		"NumberOfInstalledFiles": 6723,
+		"SizeOfInstalledFiles": 1003085722
 	},
-	"version": "1.0.0"
+	"version": "1.1.0"
 }]
